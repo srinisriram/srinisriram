@@ -1,2 +1,2 @@
 ### Hi there, and welcome! 👋
-[[Srinivas' Github Banner](./Resources/_LinkedIn Banner.png)]
+[![Srinivas' GitHub Banner](./Resources/Banner.png)]
